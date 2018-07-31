@@ -1,0 +1,1 @@
+gcloud beta functions deploy dev_teamup_bot_webhook --stage-bucket bucket-teamupschool  --trigger-http 

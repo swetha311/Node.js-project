@@ -1,0 +1,115 @@
+{
+
+
+			"originalRequest": {
+				"source": "google",
+				"data": {
+					"available_surfaces": [],
+					"surface": {
+						"capabilities": [{
+							"name": "actions.capability.AUDIO_OUTPUT"
+						}]
+					},
+					"inputs": [{
+						"arguments": [{
+							"raw_text": "school lunch at Murdock portal",
+							"text_value": "school lunch at Murdock portal",
+							"name": "trigger_query"
+						}],
+						"intent": "assistant.intent.action.MAIN",
+						"raw_inputs": [{
+							"query": "ask team up for school lunch at Murdock portal",
+							"input_type": 2,
+							"annotation_sets": []
+						}]
+					}],
+					"user": {
+						"user_id": "APhe68GCYmiwQu5P8mOAXB8B1wUd",
+						"permissions": [],
+						"locale": "en-US"
+					},
+					"device": {
+						"unique_device_id": "04FAA80BDD9376B5BF156F208EDFA460"
+					},
+					"is_in_sandbox": true,
+					"conversation": {
+						"conversation_id": "1503900208989",
+						"type": 1
+					}
+				}
+			},
+			"id": "f45f8733-bb83-4105-b602-2fe64deda68e",
+			"timestamp": "2017-08-28T06:03:29.302Z",
+			"lang": "en",
+			"result": {
+				"source": "agent",
+				"resolvedQuery": "school lunch at Murdock portal",
+				"speech": "",
+				"action": "when-is",
+				"actionIncomplete": false,
+				"parameters": {
+					"date": "",
+					"school-name": "Sedgwick Elementary",
+                    "event-name" : "Vacation"
+				},
+				"contexts": [{
+					"name": "google_assistant_welcome",
+					"parameters": {
+						"date": "",
+						"date.original": "",
+						"school-name.original": "Murdock portal",
+						"school-name": "Murdock Portal"
+					},
+					"lifespan": 0
+				}, {
+					"name": "google_assistant_input_type_voice",
+					"parameters": {
+						"date": "",
+						"date.original": "",
+						"school-name.original": "Murdock portal",
+						"school-name": "Murdock Portal"
+					},
+					"lifespan": 0
+				}, {
+					"name": "actions_capability_audio_output",
+					"parameters": {
+						"date": "",
+						"date.original": "",
+						"school-name.original": "Murdock portal",
+						"school-name": "Murdock Portal"
+					},
+					"lifespan": 0
+				}, {
+					"name": "school-name",
+					"parameters": {
+						"date": "",
+						"date.original": "",
+						"school-name.original": "Murdock portal",
+						"school-name": "Murdock Portal"
+					},
+					"lifespan": 100
+				}],
+				"metadata": {
+					"intentId": "612a9c61-d3cc-4bf9-9763-f5c2e5de70bb",
+					"webhookUsed": "true",
+					"webhookForSlotFillingUsed": "false",
+					"nluResponseTime": 132,
+					"intentName": "dismissal"
+				},
+				"fulfillment": {
+					"speech": "I don't know it, sorry, but most of the school end at 3 PM.",
+					"messages": [{
+						"type": 0,
+						"speech": "I don't know it, sorry, but most of the school end at 3 PM."
+					}]
+				},
+				"score": 0.7400000095367432
+			},
+			"status": {
+				"code": 200,
+				"errorType": "success"
+			},
+			"sessionId": "1503900208989"
+		
+
+}

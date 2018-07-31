@@ -1,0 +1,40 @@
+  {"bell_schedule" :
+
+
+{
+
+	"1": "School starts at 9 AM. For TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"2": "Tuesday is early release day. School starts at 9 AM. All grades are dismissed at 2:30 PM ",
+
+	"3": "School starts at 9 AM.For TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"4": "School starts at 9 AM.  For TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"5": "School starts at 9 AM.  For TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM"
+},
+
+  "start_time" : {
+
+      	"1": "School starts at 9 AM.",
+
+	"2": "School starts at 9 AM.",
+
+	"3": "School starts at 9 AM.",
+
+	"4": "School starts at 9 AM.",
+
+	"5": "School starts at 9 AM."
+
+  },
+ "end_time" : {	"1": "For TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"2": "Early dismissal today. All grades are dismissed at 2:30 PM ",
+
+	"3": "Grades TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"4":  "Grades TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM",
+
+	"5":  "Grades TK to 3 rd grade - school is dismissed at 3:05. For 4th and 5th graders - school dismissed at 3:35 PM"
+}
+}

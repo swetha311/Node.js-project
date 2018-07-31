@@ -1,0 +1,53 @@
+{
+	"body":
+    {
+  "id": "f394f434-bfbf-4911-9114-47de10a9d4eb",
+  "timestamp": "2017-08-21T20:40:15.806Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "lunch",
+    "action": "lunch-menu",
+    "actionIncomplete": false,
+    "parameters": {
+      "date": "",
+      "school-name": "Fairmeadow Elementary"
+    },
+    "contexts": [
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "",
+          "school-name": "Fairmeadow Elementary"
+        },
+        "lifespan": 105
+      }
+    ],
+    "metadata": {
+      "intentId": "471adb23-735e-4756-829f-722ad8728b8f",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 166,
+      "intentName": "lunch-with-context"
+    },
+    "fulfillment": {
+      "speech": "Sorry, I don't have school lunch data for that school",
+      "displayText": "Sorry, I don't have school lunch data for that school",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Sorry, I don't have school lunch data for that school"
+        }
+      ]
+    },
+    "score": 0.7512499895834375
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "2bb478c6-bfb2-47cb-b4b7-1612fbfff549"
+}
+}

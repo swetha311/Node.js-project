@@ -1,0 +1,42 @@
+{
+
+    "bell_schedule" :
+{
+
+"1": "School starts at 8:30 AM.  For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM." ,
+
+"2": "Tuesday is early dismissal. School starts at 8:30 AM and School is dismissed at 2:00 PM for all students"  ,
+
+"3" : "School starts at 8:30 AM.  For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM."  ,
+
+"4" :"School starts at 8:30 AM.  For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM."  ,
+
+"5" :"School starts at 8:30 AM.  For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM."
+},
+
+  "start_time" : {
+"1": "School starts at 8:30 AM." ,
+
+"2": "School starts at 8:30 AM." ,
+
+"3" : "School starts at 8:30 AM." ,
+
+"4" :"School starts at 8:30 AM." ,
+
+"5" :"School starts at 8:30 AM."
+},
+
+ "end_time" : {
+"1": "For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM." ,
+
+"2": "Tuesday is early dismissal. School is dismissed at 2:00 PM."  ,
+
+"3" : "For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM." ,
+
+"4" :"For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM." ,
+
+"5" :"For Kindergarden to 3rd grader, and school ends at 2:35 PM. For 4th and 5th graders, school end at 3:05 PM."
+}
+
+
+}

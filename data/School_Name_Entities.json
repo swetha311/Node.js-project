@@ -1,0 +1,297 @@
+[
+    {
+        "value": "Cupertino High School",
+        "synonyms": [
+            "cupertino high school",
+            "cupertino high",
+            "tino"
+        ]
+    },
+    {
+        "value": "Lynbrook High School",
+        "synonyms": [
+            "lynbrook high school",
+            "lynbrook",
+            "viking"
+        ]
+    },
+    {
+        "value": "Monta Vista high school",
+        "synonyms": [
+            "Monta Vista high school",
+            "monta vista"
+        ]
+    },
+    {
+        "value": "Fremont High School",
+        "synonyms": [
+            "Fremont High School",
+            "Fremont High"
+        ]
+    },
+    {
+        "value": "Homestead High School",
+        "synonyms": [
+            "Homestead High School",
+            "Homestead high"
+        ]
+    },
+    {
+        "value": "Henry M. Gunn High School",
+        "synonyms": [
+            "Henry M. Gunn High School",
+            "Gunn High",
+            "Gunn High School",
+            "Henry Gunny High"
+        ]
+    },
+    {
+        "value": "Palo Alto High School",
+        "synonyms": [
+            "Palo Alto High School",
+            "Palo Alto High"
+        ]
+    },
+    {
+        "value": "Murdock Portal",
+        "synonyms": [
+            "Murdock Portal",
+            "Portal",
+            "Murdock"
+        ]
+    },
+    {
+        "value": "Sedgwick Elementary",
+        "synonyms": [
+            "Sedgwick Elementary",
+            "sedgwick"
+        ]
+    },
+    {
+        "value": "Blue Hills Elementary School",
+        "synonyms": [
+            "Blue Hills Elementary School",
+            "Blue Hills"
+        ]
+    },
+    {
+        "value": "Collins Elementary School",
+        "synonyms": [
+            "Collins Elementary School",
+            "Collins"
+        ]
+    },
+    {
+        "value": "De Vargas Elementary School",
+        "synonyms": [
+            "De Vargas Elementary School",
+            "De Vergas"
+        ]
+    },
+    {
+        "value": "Dilworth Elementary School",
+        "synonyms": [
+            "Dilworth Elementary School",
+            "Dilworth"
+        ]
+    },
+    {
+        "value": "Eaton Elementary School",
+        "synonyms": [
+            "Eaton Elementary School",
+            "Eaton"
+        ]
+    },
+    {
+        "value": "Eisenhower Elementary School",
+        "synonyms": [
+            "Eisenhower Elementary School",
+            "Eisenhower",
+            "Eisenhover Elementary"
+        ]
+    },
+    {
+        "value": "Faria Elementary School",
+        "synonyms": [
+            "Faria Elementary School",
+            "Faria",
+            "Faria Elementary",
+            "Faria School"
+        ]
+    },
+    {
+        "value": "Garden Gate Elementary School",
+        "synonyms": [
+            "Garden Gate Elementary School",
+            "Garden Gate",
+            "Garden Gate Elementary",
+            "Garden Gate School"
+        ]
+    },
+    {
+        "value": "Lincoln Elementary School",
+        "synonyms": [
+            "Lincoln Elementary School",
+            "Lincoln Elementary",
+            "Lincoln School",
+            "Lincoln"
+        ]
+    },
+    {
+        "value": "McAuliffe School",
+        "synonyms": [
+            "McAuliffe School",
+            "McAuliffe"
+        ]
+    },
+    {
+        "value": "Meyerholz Elementary School",
+        "synonyms": [
+            "Meyerholz Elementary School"
+        ]
+    },
+    {
+        "value": "West Valley Elementary School",
+        "synonyms": [
+            "West Valley",
+            "West Valley Elementary School",
+            "West Valley Elementary"
+        ]
+    },
+    {
+        "value": "Stocklmeir Elementary School",
+        "synonyms": [
+            "Stocklmeir Elementary School",
+            "Stocklmeir"
+        ]
+    },
+    {
+        "value": "Stevens Creek Elementary School",
+        "synonyms": [
+            "Stevens Creek Elementary School",
+            "Stevens Creek"
+        ]
+    },
+    {
+        "value": "Murdock Portal",
+        "synonyms": [
+            "Murdock-Portal",
+            "Portal School",
+            "Portal"
+        ]
+    },
+    {
+        "value": "Addison Elementary",
+        "synonyms": [
+            "Addison"
+        ]
+    },
+    {
+        "value": "Barron Park Elementary",
+        "synonyms": [
+            "Barron Park"
+        ]
+    },
+    {
+        "value": "Duveneck Elementary",
+        "synonyms": [
+            "Duveneck",
+            "Duveneck Elementary"
+        ]
+    },
+    {
+        "value": "El Carmelo Elementary",
+        "synonyms": [
+            "El Carmelo"
+        ]
+    },
+    {
+        "value": "Escondido Elementary",
+        "synonyms": [
+            "Escondido"
+        ]
+    },
+    {
+        "value": "Fairmeadow Elementary",
+        "synonyms": [
+            "Fairmeadow"
+        ]
+    },
+    {
+        "value": "Herbert Hoover Elementary",
+        "synonyms": [
+            "Herbert Hoover",
+            "Hoover Elementary",
+            "Hoover"
+        ]
+    },
+    {
+        "value": "Juana Briones Elementary",
+        "synonyms": [
+            "Juana Briones"
+        ]
+    },
+    {
+        "value": "Nixon Elementary",
+        "synonyms": [
+            "Nixon",
+            "Nixon School"
+        ]
+    },
+    {
+        "value": "Ohlone Elementary",
+        "synonyms": [
+            "Ohlone"
+        ]
+    },
+    {
+        "value": "Palo Verde Elementary",
+        "synonyms": [
+            "Palo Verde",
+            "Palo Verde Elementary",
+            "Verde"
+        ]
+    },
+    {
+        "value": "Walter Hays Elementary",
+        "synonyms": [
+            "Walter Hays"
+        ]
+    },
+    {
+        "value": "Warren E. Hyde Middle School",
+        "synonyms": [
+            "Warren E. Hyde Middle School",
+            "Hyde Middle,",
+            "Hyde"
+        ]
+    },
+    {
+        "value": "Kennedy Middle School",
+        "synonyms": [
+            "Kennedy Middle School",
+            "Kenndy",
+            "Kennedy Middle",
+            "Kennedy School"
+        ]
+    },
+    {
+        "value": "Lawson Middle School",
+        "synonyms": [
+            "Lawson Middle School",
+            "Lawson",
+            "Lawon Middle",
+            "Lawson school",
+            "School Lawson"
+        ]
+    },
+    {
+        "value": "Miller Middle School",
+        "synonyms": [
+            "Miller Middle School",
+            "Miller",
+            "Miller School",
+            "Middler Middle"
+        ]
+    }
+]

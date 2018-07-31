@@ -1,0 +1,58 @@
+{
+  "id": "eb831725-b31e-4b7f-96d5-c3551c648fcc",
+  "timestamp": "2017-09-06T21:02:44.145Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "lunch menu for eaton",
+    "action": "lunch-menu",
+    "actionIncomplete": false,
+    "parameters": {
+      "date": "",
+      "school-name": "Eaton Elementary School"
+    },
+    "contexts": [
+      {
+        "name": "_actions_on_google_",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 99
+      },
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 105
+      }
+    ],
+    "metadata": {
+      "intentId": "2607bf03-f567-424d-8a21-05205fb669bb",
+      "webhookUsed": "false",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "lunch"
+    },
+    "fulfillment": {
+      "speech": "",
+      "messages": [
+        {
+          "type": 0,
+          "speech": ""
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "f858b471-caf6-4e9d-bccd-c5108b97c447"
+}

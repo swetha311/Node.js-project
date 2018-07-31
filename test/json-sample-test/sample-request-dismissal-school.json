@@ -1,0 +1,53 @@
+{
+	"body":
+    {
+  "id": "390bad9b-8239-4fa2-b63f-17e749d9cc53",
+  "timestamp": "2017-08-15T19:21:45.531Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "dismissal at murdock portal",
+    "action": "dismissal-school",
+    "actionIncomplete": false,
+    "parameters": {
+      "date": "",
+      "school-name": "Murdock Portal"
+    },
+    "contexts": [
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "murdock portal",
+          "school-name": "Murdock Portal"
+        },
+        "lifespan": 10
+      }
+    ],
+    "metadata": {
+      "intentId": "612a9c61-d3cc-4bf9-9763-f5c2e5de70bb",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 1094,
+      "intentName": "dismissal"
+    },
+    "fulfillment": {
+      "speech": "Regular dismissal. K-3 are dismissed at 2:38pm and 4/5s are dismissed at 2:48pm.",
+      "displayText": "Regular dismissal. K-3 are dismissed at 2:38pm and 4/5s are dismissed at 2:48pm.",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Regular dismissal. K-3 are dismissed at 2:38pm and 4/5s are dismissed at 2:48pm."
+        }
+      ]
+    },
+    "score": 0.9300000071525574
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "f763a439-631c-4f94-9df9-5a9d833db142"
+}
+}

@@ -1,0 +1,57 @@
+{
+  "id": "8868e874-8607-4e0d-b3fa-d00a5469cf74",
+  "timestamp": "2017-10-10T20:14:02.749Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "lunch menu for eaton",
+    "action": "lunch-menu",
+    "actionIncomplete": false,
+    "parameters": {
+      "date": "2017-10-17",
+      "school-name": "Eaton Elementary School"
+    },
+    "contexts": [
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "lunch menu for eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 5
+      }
+    ],
+    "metadata": {
+      "intentId": "2607bf03-f567-424d-8a21-05205fb669bb",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "true",
+      "webhookResponseTime": 359,
+      "intentName": "lunch"
+    },
+    "fulfillment": {
+      "speech": "Here is lunch for Eaton Elementary School on October 10th\nChicken Nuggets or Veggie Nuggets with Tater Tots, Celery Sticks, Assorted Fruit, Cheez Itz.",
+      "messages": [
+        {
+          "type": 0,
+          "id": "871a75c5-b076-4080-ac84-f5719277a161",
+          "speech": "Here is lunch for Eaton Elementary School on October 10th\nChicken Nuggets or Veggie Nuggets with Tater Tots, Celery Sticks, Assorted Fruit, Cheez Itz."
+        }
+      ],
+      "data": {
+        "google": {
+          "expect_user_response": false,
+          "is_ssml": false,
+          "no_input_prompts": []
+        }
+      }
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "62216f9b-8934-4692-85b4-d8566bdd58fa"
+}

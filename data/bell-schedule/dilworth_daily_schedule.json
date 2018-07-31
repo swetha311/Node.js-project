@@ -1,0 +1,42 @@
+{
+
+"bell_schedule" :
+{
+
+"1": "School starts at 8:30, Recess is from 10:05 to 10:25 AM, Lunch is from 12 to 12:40 PM. For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM " ,
+
+"2": "Early dismissal on Tuesday. School starts at 8:30, Recess is from 10:05 to 10:25 AM, Lunch is from 12 to 12:40 PM. School is dismissed at 1:55 PM "  ,
+
+"3" : "School starts at 8:30, Recess is from 10:05 to 10:25 AM, Lunch is from 12 to 12:40 PM. For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM",
+
+"4" :"School starts at 8:30, Recess is from 10:05 to 10:25 AM, Lunch is from 12 to 12:40 PM. For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM",
+
+"5" :"School starts at 8:30, Recess is from 10:05 to 10:25 AM, Lunch is from 12 to 12:40 PM. For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM"
+},
+ "start_time" : {
+"1": "School starts at 8:30" ,
+
+"2": "School starts at 8:30"  ,
+
+"3" : "School starts at 8:30",
+
+"4" :"School starts at 8:30",
+
+"5" :"School starts at 8:30"
+
+
+ },
+ "end_time" : {
+
+"1": "For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM " ,
+
+"2": "Early dismissal on Tueday. School is dismissed at 1:55 PM "  ,
+
+"3" : "For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM",
+
+"4" :"For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM",
+
+"5" :"For Kindergarden to 3rd grader, school ends at 2:30 PM. For 4th and 5th graders, school end at 3:00 PM"
+
+ }
+}

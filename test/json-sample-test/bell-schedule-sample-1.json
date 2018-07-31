@@ -1,0 +1,72 @@
+{
+  "id": "dec1b1b5-4985-4af2-bff9-e1705d91f65f",
+  "timestamp": "2017-10-10T04:22:28.747Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "bell schedule for eaton",
+    "action": "bell-schedule",
+    "actionIncomplete": false,
+    "parameters": {
+      "date": "2017-10-17",
+      "school-name": "Eaton Elementary School"
+    },
+    "contexts": [
+      {
+        "name": "_actions_on_google_",
+        "parameters": {},
+        "lifespan": 100
+      },
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "2017-10-17",
+          "date.original": "",
+          "school-name.original": "eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 105
+      },
+      {
+        "name": "bell",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 5
+      }
+    ],
+    "metadata": {
+      "intentId": "563bd409-fe58-42f7-9b39-4cc17fdaea3e",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 463,
+      "intentName": "bell schedule"
+    },
+    "fulfillment": {
+      "speech": "",
+      "messages": [
+        {
+          "type": 0,
+          "id": "aebf5583-bd59-40cd-a559-c63c98acc021",
+          "speech": ""
+        }
+      ],
+      "data": {
+        "google": {
+          "expect_user_response": true,
+          "is_ssml": false,
+          "no_input_prompts": []
+        }
+      }
+    },
+    "score": 0.9599999785423279
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success"
+  },
+  "sessionId": "34a9bb13-18ed-4acf-8fc5-c1f1d7471e31"
+}

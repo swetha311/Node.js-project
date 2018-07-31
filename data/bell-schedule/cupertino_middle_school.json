@@ -1,0 +1,83 @@
+{  "bell_schedule" :
+ 
+
+{ 
+"1": 
+  
+    
+    "First  period is from 8:10 to 8:56. Second period is from  9:00 to 9:46. Third  is from 9:50 to 10:39. Brunch is from 10:39 to 10:59.  4th period is from 11:03 to 11:49. 5th period is from 11:53 to 12:39. Lunch is from 12:39 to 1:14  6th period from 1:18 to 2:04PM.  7th period is from 2:08 to 2:54 PM.",
+    
+       
+,
+"2":        
+        
+    "First  period is from 8:10 to 8:56. Second period is from  9:00 to 9:46. Third  is from 9:50 to 10:39. Brunch is from 10:39 to 10:59.  4th period is from 11:03 to 11:49. 5th period is from 11:53 to 12:39. Lunch is from 12:39 to 1:14  6th period from 1:18 to 2:04PM.  7th period is from 2:08 to 2:54 PM."
+  ,
+    "3" :  
+    "Wed is block Day. Second period is from 9:35 to 10:58. Brunch is from 10:58 to 11:18. 4th period from 11:22 to 12:52. Lunch is from 12:52 to 1:27. 6th period is from 1:31 to 2:54"
+    
+    ,
+   
+"4" : 
+    "First period starts at 8:10 to 9:33. Third period starts from 9:37 to 11:05. Brunch starts from 11:05 to 11:25. 5th period starts from 11:29 to 12:52. Lunch starts from 12:52 to 1:27. 7th period starts from 1:31 to 2:54PM.",
+    
+"5" :        
+        
+    "First  period is from 8:10 to 8:56. Second period is from  9:00 to 9:46. Third  is from 9:50 to 10:39. Brunch is from 10:39 to 10:59.  4th period is from 11:03 to 11:49. 5th period is from 11:53 to 12:39. Lunch is from 12:39 to 1:14  6th period from 1:18 to 2:04PM.  7th period is from 2:08 to 2:54 PM."
+},
+
+     
+
+ "start_time" : {
+     
+     "1": 
+  
+    
+    "School starts at 8:10.",
+    
+       
+,
+"2":        
+        
+   "School starts at 8:10."
+  ,
+    "3" :  
+    "Wed is block Day. School starts at 9:35 to 10:58. "
+    
+    ,
+   
+"4" : 
+    "First period starts at 8:10",
+    
+"5" :        
+        
+    "First  period is from 8:10"
+ },
+ 
+ 
+ "end_time" : {
+     
+     "1": 
+  
+    
+    "School ends at 2:54 PM.",
+    
+       
+,
+"2":        
+        
+    "School ends at  2:54 PM."
+  ,
+    "3" :  
+    "School ends at  2:54"
+    
+    ,
+   
+"4" : 
+    "School ends at 2:54PM.",
+    
+"5" :        
+        
+    "School ends at 2:54 PM."
+ }
+}

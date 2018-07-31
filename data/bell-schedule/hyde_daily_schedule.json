@@ -1,0 +1,46 @@
+ { "bell_schedule" :
+
+
+{
+    "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Zero Period is from 7:45 to 8:35, First period is from 8:38 to 9:30, Second period is from 9:30 to 10:25. Brunch is from 10:24 to 10:42. Third period is from 10:45 to 11:37. Fourth Period is from 11:40 to 12:40. Lunch is from 12:40 to 1:10. 5th period is from 1:13 to 2:05.  6th period is from 2:08 to 3:00 PM.",
+
+	"2": "Zeroth period is at 7:45 to 9:16. Second Period is from 9:19 to 10:52.  Brunch is from 10:52 to 11:09. Fourth period is from 11:12 to 12:54. Lunch is from 12:54 to 1:24. Sixth period is from 1:27 to 3 PM.",
+
+	"3": "Block Period. First period starts at 9:19 to 10:52. Brunch is from 10:52 to 11:09. 3rd Period is from 11:12 to 12:54. Lunch is from 12:54 to 1:24. 5th period is from 1:27 to 3 PM.",
+
+	"4": "Zero Period is from 7:45 to 8:35, First period is from 8:38 to 9:30, Second period is from 9:30 to 10:25. Brunch is from 10:24 to 10:42. Third period is from 10:45 to 11:37. Fourth Period is from 11:40 to 12:40. Lunch is from 12:40 to 1:10. 5th period is from 1:13 to 2:05.  6th period is from 2:08 to 3:00 PM.",
+    
+	"5": "Zero Period is from 7:45 to 8:35, First period is from 8:38 to 9:30, Second period is from 9:30 to 10:25. Brunch is from 10:24 to 10:42. Third period is from 10:45 to 11:37. Fourth Period is from 11:40 to 12:40. Lunch is from 12:40 to 1:10. 5th period is from 1:13 to 2:05.  6th period is from 2:08 to 3:00 PM."
+},
+
+
+  "start_time" : 
+  
+  {
+    "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Zero period starts at 7:45 and first period is at 8:38.",
+
+	"2": "Zero period starts at 7:45 and first period is at 8:38.",
+
+	"3": "Block Period. First period starts at 9:19",
+
+	"4": "Zero period starts at 7:45 and first period is at 8:38.",
+    
+	"5": "Zero period starts at 7:45 and first period is at 8:38."
+},
+ "end_time" : 
+  
+  {
+    "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Last period of the day, 6th period ends at 3:00 PM.",
+
+	"2": "Last period of the day, 6th period ends at 3:00 PM.",
+
+	"3": "Last period of the day, 6th period ends at 3:00 PM.",
+
+	"4": "Last period of the day, 6th period ends at 3:00 PM.",
+    
+	"5": "Last period of the day, 6th period ends at 3:00 PM."
+}
+ }

@@ -1,0 +1,332 @@
+{
+"Abraham Lincoln Elementary School" :
+        {"shortname": "lincoln",
+        "streetaddress": "21710 McClellan Rd.",
+        "zip": "95014",
+        "phone" : "4082524798",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=16",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Blue Hills Elementary School" :
+        {"shortname": "blue_hills",
+        "streetaddress": "12300 De Sanka Ave.",
+        "zip": "95070",
+        "phone" : "4082579282",
+        "city" : "Saratoga",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=8",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Eaton Elementary School" :
+        {"shortname": "eaton",
+        "streetaddress": "20220 Suisun Ave.",
+        "zip": "95014",
+        "phone" : "4082552848",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=12",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Nimitz Elementary School" :
+        {"shortname": "nimitz",
+        "streetaddress": "545 E. Cheyenne Dr.",
+        "zip": "94087",
+        "phone" : "4087362180",
+        "city" : "Sunnyvale",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=19",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Christa McAuliffe Elementary School" :
+        {"shortname": "christa_mcauliffe",
+        "streetaddress": "12211 Titus Ave.",
+        "zip": "95070",
+        "phone" : "4082534696",
+        "city" : "Saratoga",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=17",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Cupertino Middle School" :
+        {"shortname": "cupertino_middle",
+        "streetaddress": "1650 S. Bernardo Ave.",
+        "zip": "94087",
+        "phone" : "4082450303",
+        "city" : "Sunnyvale",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=28",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Sedgwick Elementary School" :
+        {"shortname": "sedgwick",
+        "streetaddress": "19200 Phil Ln.",
+        "zip": "95014",
+        "phone" : "4082523103",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=24",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Eisenhower Elementary School" :
+        {"shortname": "eisenhower",
+        "streetaddress": "277 Rodonovan Dr.",
+        "zip": "95051",
+        "phone" : "4082484313",
+        "city" : "Santa Clara",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=13",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Garden Gate Elementary School" :
+        {"shortname": "garden_gate",
+        "streetaddress": "10500 Ann Arbor Ave.",
+        "zip": "95014",
+        "phone" : "4082525414",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=29",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Joaquin Miller Middle School" :
+        {"shortname": "miller",
+        "streetaddress": "6151 Rainbow Dr.",
+        "zip": "95129",
+        "phone" : "4082523755",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=32",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Kennedy Middle  School" :
+        {"shortname": "kennedy",
+        "streetaddress": "821 Bubb Rd.",
+        "zip": "95014",
+        "phone" : "4082531525",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=30",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"John Muir Elementary School" :
+        {"shortname": "john_muir",
+        "streetaddress": "6560 Hanover Dr.",
+        "zip": "95129",
+        "phone" : "4082525265",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=20",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Collins Elementary School" :
+        {"shortname": "collins",
+        "streetaddress": "10300 Blaney Ave.",
+        "zip": "95014",
+        "phone" : "4082526002",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=9",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Louis E. Stocklmeir Elementary School" :
+        {"shortname": "stocklmeir",
+        "streetaddress": "592 Dunholme Way",
+        "zip": "94087",
+        "phone" : "4087323363",
+        "city" : "Sunnyvale",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=26",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Manuel De Vargas Elementary School" :
+        {"shortname": "de_vergas",
+        "streetaddress": "5050 Moorpark Ave.",
+        "zip": "95129",
+        "phone" : "4082520303",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=10",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Montclaire Elementary School" :
+        {"shortname": "montclair",
+        "streetaddress": "1160 St. Joseph Ave.",
+        "zip": "94024",
+        "phone" : "6509679388",
+        "city" : "Los Altos",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=22",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Murdock-Portal Elementary School" :
+        {"shortname": "murdock_portal",
+        "streetaddress": "1188 Wunderlich Dr.",
+        "zip": "95129",
+        "phone" : "4089738191",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=21",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Nelson S. Dilworth Elementary School" :
+        {"shortname": "dilworth",
+        "streetaddress": "1101 Strayer Dr.",
+        "zip": "95129",
+        "phone" : "4082532850",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=11",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Meyerholz Elementary School" :
+        {"shortname": "meyerholz",
+        "streetaddress": "6990 Melvin Dr.",
+        "zip": "95129",
+        "phone" : "4082527450",
+        "city" : "San Jose",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=18",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Lawson Middle School" :
+        {"shortname": "lawson",
+        "streetaddress": "10401 Vista Dr.",
+        "zip": "95014",
+        "phone" : "4082557500",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=31",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Stevens Creek Elementary School" :
+        {"shortname": "stevens_Creek",
+        "streetaddress": "10300 Ainsworth Dr.",
+        "zip": "95014",
+        "phone" : "4082453312",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=25",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Warren E. Hyde Middle School" :
+        {"shortname": "hyde",
+        "streetaddress": "19325 Bollinger Rd.",
+        "zip": "95014",
+        "phone" : "4082526290",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=15",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"West Valley Elementary School" :
+        {"shortname": "west_valley",
+        "streetaddress": "1635 Belleville Way",
+        "zip": "94087",
+        "phone" : "4082450148",
+        "city" : "Sunnyvale",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=27",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"William Faria Elementary School" :
+        {"shortname": "faria",
+        "streetaddress": "10155 Barbara Ln.",
+        "zip": "95014",
+        "phone" : "4082520706",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=5152",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Regnart Elementary School" :
+        {"shortname": "regnart",
+        "streetaddress": "1170 Yorkshire Dr.",
+        "zip": "95014",
+        "phone" : "4082535250",
+        "city" : "Cupertino",
+        "calendar_url" : "https://www.cusdk8.org/site/handlers/icalfeed.ashx?MIID=23",
+        "district_name" : "Cupertino Union"
+}
+
+,
+"Cupertino High" :
+        {"shortname": "cupertino_high",
+        "streetaddress": "10100 Finch Ave.",
+        "zip": "95014",
+        "phone" : "4083667300",
+        "city" : "Cupertino",
+        "calendar_url" : "https://calendar.google.com/calendar/ical/fuhsd.org_6idfqo0o0fjejmag3pear4f3fg%40group.calendar.google.com/public/basic.ics",
+        "district_name" : "Fremont Union High"
+}
+
+,
+"Fremont High" :
+        {"shortname": "fremont_high",
+        "streetaddress": "1279 Sunnyvale-Saratoga Rd.",
+        "zip": "94087",
+        "phone" : "4085222400",
+        "city" : "Sunnyvale",
+        "calendar_url" : "https://calendar.google.com/calendar/ical/fuhsd.org_1eb1ke8rms2nsb0u95uj9bmoe4%40group.calendar.google.com/public/basic.ics",
+        "district_name" : "Fremont Union High"
+}
+
+,
+"Homestead High" :
+        {"shortname": "homestead_high",
+        "streetaddress": "21370 Homestead Rd.",
+        "zip": "95014",
+        "phone" : "4085222500",
+        "city" : "Cupertino",
+        "calendar_url" : "undefined",
+        "district_name" : "Fremont Union High"
+}
+
+,
+"Lynbrook High" :
+        {"shortname": "lynbrook_high",
+        "streetaddress": "1280 Johnson Ave.",
+        "zip": "95129",
+        "phone" : "4083667700",
+        "city" : "San Jose",
+        "calendar_url" : "undefined",
+        "district_name" : "Fremont Union High"
+}
+
+,
+"Monta Vista High" :
+        {"shortname": "monsta_vista_high",
+        "streetaddress": "21840 McClellan Rd.",
+        "zip": "95014",
+        "phone" : "4083667600",
+        "city" : "Cupertino",
+        "calendar_url" : "undefined",
+        "district_name" : "Fremont Union High"
+}
+
+,
+}

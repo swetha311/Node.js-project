@@ -1,0 +1,33 @@
+{
+	"id": "720a95b1-4798-4b3c-a9d5-058b2fa1bbab",
+	"timestamp": "2017-08-28T22:29:23.648Z",
+	"lang": "en",
+	"result": {
+		"source": "agent",
+		"resolvedQuery": "hi",
+		"speech": "",
+		"action": "input.welcome",
+		"actionIncomplete": false,
+		"parameters": {},
+		"contexts": [],
+		"metadata": {
+			"intentId": "0af93b8c-e1aa-40df-8ebc-31783f36f10a",
+			"webhookUsed": "true",
+			"webhookForSlotFillingUsed": "false",
+			"intentName": "Default Welcome Intent"
+		},
+		"fulfillment": {
+			"speech": "Hello ! Let's Team Up!. You can ask me about events in your school. To get today's lunch menu, say 'Lunch Menu'. To get today's bell schedule say 'Bell Schedule' or Help for more commands.",
+			"messages": [{
+				"type": 0,
+				"speech": "Hello ! Let's Team Up!. You can ask me about events in your school.  To get today's lunch menu, say  'Lunch Menu'. To get today's bell schedule say 'Bell Schedule' or Help for more commands."
+			}]
+		},
+		"score": 1
+	},
+	"status": {
+		"code": 200,
+		"errorType": "success"
+	},
+	"sessionId": "b606dfb4-d2cf-489b-a5d6-e835aa680d34"
+}

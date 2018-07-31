@@ -1,0 +1,28 @@
+[debug] [2017-11-12T04:46:07.424Z] ----------------------------------------------------------------------
+[debug] [2017-11-12T04:46:07.439Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HanMin\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve --only functions
+[debug] [2017-11-12T04:46:07.439Z] CLI Version:   3.15.0
+[debug] [2017-11-12T04:46:07.439Z] Platform:      win32
+[debug] [2017-11-12T04:46:07.439Z] Node Version:  v6.11.2
+[debug] [2017-11-12T04:46:07.439Z] Time:          Sat Nov 11 2017 20:46:07 GMT-0800 (Pacific Standard Time)
+[debug] [2017-11-12T04:46:07.439Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-11-12T04:46:07.517Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-11-12T04:46:07.520Z] > authorizing via signed-in user
+[debug] [2017-11-12T04:46:07.532Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bot-teamupschool  
+ Sat Nov 11 2017 20:46:07 GMT-0800 (Pacific Standard Time)
+[debug] [2017-11-12T04:46:08.146Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-12T04:46:08.162Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/bot-teamupschool/tokens  
+ Sat Nov 11 2017 20:46:08 GMT-0800 (Pacific Standard Time)
+[debug] [2017-11-12T04:46:08.639Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\HanMin\Documents\TeamBot'...
+[info] 
+[info] i  functions: Preparing to emulate functions.
+[debug] [2017-11-12T04:46:11.439Z] >>> HTTP REQUEST GET https://appengine.googleapis.com/v1/apps/bot-teamupschool  
+ Sat Nov 11 2017 20:46:11 GMT-0800 (Pacific Standard Time)
+[debug] [2017-11-12T04:46:11.439Z] >>> HTTP REQUEST GET https://apikeys.googleapis.com/v1/projects/bot-teamupschool/apiKeys  
+ Sat Nov 11 2017 20:46:11 GMT-0800 (Pacific Standard Time)
+[debug] [2017-11-12T04:46:11.902Z] <<< HTTP RESPONSE 200
+[debug] [2017-11-12T04:46:12.021Z] <<< HTTP RESPONSE 200
+[warn] !  functions: Failed to emulate dev_teamup_bot_webhook
+[info] +  functions: helloHttp: http://localhost:5000/bot-teamupschool/us-central1/helloHttp

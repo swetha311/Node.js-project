@@ -1,0 +1,96 @@
+
+
+{
+    "bell_schedule" :
+{
+"1":
+
+        "Today is Regular Bell Schedule \n"  +
+        "Period 1 7:35-8:25	(50 min) \n" +
+        "Period 2 8:30-9:20	(50 min)\n"  +
+        "Period 3 9:25-10:20	(55 min)\n"  +
+        "Brunch	10:20-10:35	(15 min)\n"  +
+        "Period 4 10:40-11:30	(50 min)\n"  +
+        "Period 5 11:35-12:25	(50 min)\n"  +
+        "Lunch	12:25-1:05	(40 min)\n"  +
+        "Period 6 1:10-2:00	(50 min)\n"  +
+        "Period 7 2:05-2:55	(50 min)\n"
+,
+"2":
+        "Today is Regular Bell Schedule \n"  +
+        "Period 1 7:35-8:25	(50 min) \n" +
+        "Period 2 8:30-9:20	(50 min)\n"  +
+        "Period 3 9:25-10:20	(55 min)\n"  +
+        "Brunch	10:20-10:35	(15 min)\n"  +
+        "Period 4 10:40-11:30	(50 min)\n"  +
+        "Period 5 11:35-12:25	(50 min)\n"  +
+        "Lunch	12:25-1:05	(40 min)\n"  +
+        "Period 6 1:10-2:00	(50 min)\n"  +
+        "Period 7 2:05-2:55	(50 min)\n"
+  ,
+    "3" :
+    "Today is Wed, Block Day. Period 2 starts at 9:00 A.M.\n" +
+    "Period 2 9:00-10:25 (85 mi.)\n" +
+    "Tutorial 10:25-11:05 (40 min)\n" +
+    "Brunch	11:05-11:20	(15 min)\n" +
+    "Period 4 11:25-12:45 (80 min)\n" +
+    "Lunch 12:45-1:30 (45 min)\n" +
+    "Period 6 1:35-2:55(80 min)\n" ,
+
+"4" :
+    "Block Thursday-Regular Start time\n" +
+    "Period1 7:35-8:55 (80 min)\n" +
+    "Tutorial 8:55-9:35 (40 min)\n" +
+    "Period3  9:40-11:05 (85 min)\n" +
+    "Brunch  11:05-11:20 (15 min)\n" +
+    "Period5  11:25-12:45 (80 min)\n" +
+    "Lunch  12:45-1:30 (45 min)\n" +
+    "Period7  1:35-2:55 (80 min)\n" ,
+
+"5" :
+        "Today is Regular Bell Schedule \n"  +
+        "Period 1 7:35-8:25	(50 min) \n" +
+        "Period 2 8:30-9:20	(50 min)\n"  +
+        "Period 3 9:25-10:20	(55 min)\n"  +
+        "Brunch	10:20-10:35	(15 min)\n"  +
+        "Period 4 10:40-11:30	(50 min)\n"  +
+        "Period 5 11:35-12:25	(50 min)\n"  +
+        "Lunch	12:25-1:05	(40 min)\n"  +
+        "Period 6 1:10-2:00	(50 min)\n"  +
+        "Period 7 2:05-2:55	(50 min)\n"
+},
+
+
+    "start_time" : {
+
+        "1":  "Today is Regular Bell Schedule.Period 1 starts at 7:35",
+        "2":   "Today is Regular Bell Schedule First period starts at  7:35" ,
+    "3" :   "Today is Wed, Block Day. Period 2 starts at 9:00 A.M.",
+
+
+"4" : "Block Thursday-Regular First Period starts at 7:35 AM",
+
+
+"5" :
+       "Today is Regular Bell Schedule First period starts at  7:35"
+
+    },
+ "end_time" : {
+
+"1":    "School ends at 2:55"
+,
+"2":
+      "School ends at 2:55"
+  ,
+    "3" :
+    "School ends at 2:55",
+
+"4" :     "School ends at 2:55" ,
+
+"5" :  "School ends at 2:55"
+
+
+
+
+ }
+}

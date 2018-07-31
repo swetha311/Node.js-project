@@ -1,0 +1,49 @@
+{
+	"body":
+{
+  "id": "270b4eab-0c0c-4bf4-90f2-d32dbdfb110f",
+  "timestamp": "2017-08-21T18:49:22.748Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "meera",
+    "action": "",
+    "actionIncomplete": false,
+    "parameters": {},
+    "contexts": [
+      {
+        "name": "school-name",
+        "parameters": {
+          "date": "",
+          "date.original": "",
+          "school-name.original": "eaton",
+          "school-name": "Eaton Elementary School"
+        },
+        "lifespan": 3
+      }
+    ],
+    "metadata": {
+      "intentId": "9d998fe9-ca3f-4640-8ea6-eb49082a2cfd",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "webhook"
+    },
+    "fulfillment": {
+      "speech": "Default webhook response.",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Default webhook response."
+        }
+      ]
+    },
+    "score": 0.7200000286102295
+  },
+  "status": {
+    "code": 206,
+    "errorType": "partial_content",
+    "errorDetails": "Webhook call failed. Error: Request timeout."
+  },
+  "sessionId": "2bb478c6-bfb2-47cb-b4b7-1612fbfff549"
+}
+}

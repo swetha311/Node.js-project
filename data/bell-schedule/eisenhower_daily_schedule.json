@@ -1,0 +1,41 @@
+  {
+  
+"bell_schedule" :
+{
+
+	"1": "School starts at 8:30 AM. Morning recess is from 10:30 to 10:50AM. For K to 3 rd grade - lunch is from 12 to 12:45. School is dismissed at 2:35 pm. For 4th and 5th graders, lunch is from 12:24 to 1:10 PM- school dismissed at 3:05 PM",
+
+	"2": "Tuesday is early release day. School starts at 8:30 AM. All grades are dismissed at 2:00 PM ",
+
+	"3": "School starts at 8:30 AM. Morning recess is from 10:30 to 10:50AM. For K to 3 rd grade - lunch is from 12 to 12:45. School is dismissed at 2:35 pm. For 4th and 5th graders, lunch is from 12:24 to 1:10 PM- school dismissed at 3:05 PM",
+
+	"4": "School starts at 8:30 AM. Morning recess is from 10:30 to 10:50AM. For K to 3 rd grade - lunch is from 12 to 12:45. School is dismissed at 2:35 pm. For 4th and 5th graders, lunch is from 12:24 to 1:10 PM- school dismissed at 3:05 PM",
+    
+	"5": "School starts at 8:30 AM. Morning recess is from 10:30 to 10:50AM. For K to 3 rd grade - lunch is from 12 to 12:45. School is dismissed at 2:35 pm. For 4th and 5th graders, lunch is from 12:24 to 1:10 PM- school dismissed at 3:05 PM"
+},
+      
+      "start_time" : {
+          
+          "1": "School starts at 8:30 AM.",
+
+	"2": "School starts at 8:30 AM.  ",
+
+	"3": "School starts at 8:30 AM. ",
+
+	"4": "School starts at 8:30 AM. ",
+    
+	"5": "School starts at 8:30 AM. "
+          
+      },
+ "end_time" : {"1": "For K to 3 rd grade, school is dismissed at 2:35 pm. For 4th and 5th graders, school dismissed at 3:05 PM",
+
+	"2": "Tuesday is early release day. All grades are dismissed at 2:00 PM ",
+
+	"3":  "For K to 3 rd grade, school is dismissed at 2:35 pm. For 4th and 5th graders, school dismissed at 3:05 PM",
+
+	"4":  "For K to 3 rd grade, school is dismissed at 2:35 pm. For 4th and 5th graders, school dismissed at 3:05 PM",
+    
+	"5": "For K to 3 rd grade, school is dismissed at 2:35 pm. For 4th and 5th graders, school dismissed at 3:05 PM"}
+
+
+}

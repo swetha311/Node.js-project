@@ -1,0 +1,44 @@
+{  "bell_schedule" :
+
+{
+
+"1": "For  to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. Recess is from 10 to 10:20 am. Lunch is 12 to 12:45 PM. Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM."  ,
+
+"2": "Early Dismissal today.  For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for all students is 12:45 PM."  ,
+
+"3" : "For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. Recess is from 10 to 10:20 am. Lunch is 12 to 12:45 PM. Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM.",
+
+"4" :"For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. Recess is from 10 to 10:20 am. Lunch is 12 to 12:45 PM. Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM.",
+
+"5" :"For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. Recess is from 10 to 10:20 am. Lunch is 12 to 12:45 PM. Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM."
+},
+
+  "start_time" : {
+"1": "For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. "  ,
+
+"2": "For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM."  ,
+
+"3" : "For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM.",
+
+"4" :"For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM. ",
+
+"5" :"For Kindergarden to 3rd grader, School starts at 8:15 AM for 4th and 5th graders, school starts at 8 AM."
+
+
+  },
+ "end_time" : {
+
+"1": "Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM."  ,
+
+"2": "Early dismissal today. Dismissal for all students is at 12:45 PM."  ,
+
+"3" : "Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM." ,
+
+"4" :"Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM." ,
+
+"5" :"Dismissal is for Kindergarden to 3rd grader is 2:38 and for 4th and 5th grader dismissal is at 2:48 PM."
+
+
+ }
+
+}

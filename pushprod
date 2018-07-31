@@ -1,0 +1,1 @@
+gcloud beta functions deploy helloHttp  --stage-bucket bucket-teamupschool  --trigger-http 

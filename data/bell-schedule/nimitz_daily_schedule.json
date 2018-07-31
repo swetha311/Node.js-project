@@ -1,0 +1,44 @@
+{  "bell_schedule" :
+
+{ 
+   
+"1": "School starts at 8 AM. Morning recess is from 10:10 to 10:30AM. For transitional Kindergarden and kindergardeners, lunch is from 11:45 to 12:25. For first and second graders, lunch is from 12:00 to 12:40. For third and fourth grader, lunch is 12:10 to 12:50. For fith grader, lunch is from 12:20pm to 1 PM.  School is dismissed at 2:30 PM."  ,
+   
+"2": "Early dismissal day. School starts at 8 AM. Morning recess is from 10:10 to 10:30AM. For transitional Kindergarden and kindergardeners, lunch is from 11:45 to 12:25. For first and second graders, lunch is from 12:00 to 12:40. For third and fourth grader, lunch is 12:10 to 12:50. For fith grader, lunch is from 12:20pm to 1 PM. School is dismissed at 1:25 PM.",
+    
+"3" :"School starts at 8 AM. Morning recess is from 10:10 to 10:30AM. For transitional Kindergarden and kindergardeners, lunch is from 11:45 to 12:25. For first and second graders, lunch is from 12:00 to 12:40. For third and fourth grader, lunch is 12:10 to 12:50. For fifth grader, lunch is from 12:20pm to 1 PM. School is dismissed at 2:30 PM." ,
+    
+"4" :"School starts at 8 AM. Morning recess is from 10:10 to 10:30AM. For transitional Kindergarden and kindergardeners, lunch is from 11:45 to 12:25. For first and second graders, lunch is from 12:00 to 12:40. For third and fourth grader, lunch is 12:10 to 12:50. For fifth grader, lunch is from 12:20pm to 1 PM. School is dismissed at 2:30 PM." ,
+   
+"5" :"School starts at 8 AM. Morning recess is from 10:10 to 10:30AM. For transitional Kindergarden and kindergardeners, lunch is from 11:45 to 12:25. For first and second graders, lunch is from 12:00 to 12:40. For third and fourth grader, lunch is 12:10 to 12:50. For fifth grader, lunch is from 12:20pm to 1 PM. School is dismissed at 2:30 PM."  
+},
+ 
+  "start_time" : {
+"1": "School starts at 8 AM "  ,
+   
+"2": "School starts at 8 AM "   ,
+    
+"3" : "School starts at 8 AM " ,
+    
+"4" :"School starts at 8 AM " ,
+   
+"5" :"School starts at 8 AM "   
+      
+      
+  },
+ "end_time" : {
+     
+"1": " School ends at 2:30 PM"  ,
+   
+"2": "Early dismissal on Tuesdays. School ends at 1:25 PM"  ,
+    
+"3" : " School ends at 2:30 PM" ,
+    
+"4" : " School ends at 2:30 PM" ,
+   
+"5" : " School ends at 2:30 PM"
+     
+     
+ }
+
+}

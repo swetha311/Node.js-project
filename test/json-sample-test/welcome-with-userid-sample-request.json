@@ -1,0 +1,80 @@
+ {
+     "originalRequest": {
+         "source": "google",
+         "data": {
+             "available_surfaces": [],
+             "surface": {
+                 "capabilities": [{
+                     "name": "actions.capability.AUDIO_OUTPUT"
+                 }]
+             },
+             "inputs": [{
+                 "arguments": [{
+                     "raw_text": "talk to team up",
+                     "text_value": "talk to team up",
+                     "name": "text"
+                 }],
+                 "intent": "assistant.intent.action.TEXT",
+                 "raw_inputs": [{
+                     "query": "talk to team up",
+                     "input_type": 2,
+                     "annotation_sets": []
+                 }]
+             }],
+             "user": {
+                 "user_id": "APhe68GCYmiwQu5P8mOAXB8B1wUd",
+                 "permissions": [],
+                 "locale": "en-US"
+             },
+             "device": {
+                 "unique_device_id": "04FAA80BDD9376B5BF156F208EDFA460"
+             },
+             "is_in_sandbox": true,
+             "conversation": {
+                 "conversation_token": "[]",
+                 "conversation_id": "1503960744362",
+                 "type": 2
+             }
+         }
+     },
+     "id": "71a278db-386e-4a43-a45d-db4d9a583909",
+     "timestamp": "2017-08-28T22:52:36.335Z",
+     "lang": "en",
+     "result": {
+         "source": "agent",
+         "resolvedQuery": "talk to team up",
+         "speech": "",
+         "action": "input.welcome",
+         "actionIncomplete": false,
+         "parameters": {},
+         "contexts": [{
+             "name": "google_assistant_input_type_voice",
+             "parameters": {},
+             "lifespan": 0
+         }, {
+             "name": "actions_capability_audio_output",
+             "parameters": {},
+             "lifespan": 0
+         }],
+         "metadata": {
+             "intentId": "0af93b8c-e1aa-40df-8ebc-31783f36f10a",
+             "webhookUsed": "true",
+             "webhookForSlotFillingUsed": "false",
+             "nluResponseTime": 343,
+             "intentName": "Default Welcome Intent"
+         },
+         "fulfillment": {
+             "speech": "Hello ! Let's Team Up!. You can ask me about events in your school. To get today's lunch menu, say 'Lunch Menu'. To get today's bell schedule say 'Bell Schedule' or Help for more commands.",
+             "messages": [{
+                 "type": 0,
+                 "speech": "Hello ! Let's Team Up!. You can ask me about events in your school.  To get today's lunch menu, say  'Lunch Menu'. To get today's bell schedule say 'Bell Schedule' or Help for more commands."
+             }]
+         },
+         "score": 0.5
+     },
+     "status": {
+         "code": 200,
+         "errorType": "success"
+     },
+     "sessionId": "1503960744362"
+ }

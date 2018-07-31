@@ -1,0 +1,4 @@
+{
+	"body":
+{"id":"216a9d91-1ca1-4917-970c-0e1e9b46f82f","timestamp":"2017-08-20T00:49:56.492Z","lang":"en","result":{"source":"agent","resolvedQuery":"portal","speech":"","action":"lunch-menu","actionIncomplete":false,"parameters":{"date":"","school-name":"Murdock Portal"},"contexts":[{"name":"school-name","parameters":{"date":"2017-08-21","date.original":"monday","school-name.original":"portal","school-name":"Murdock Portal"},"lifespan":105}],"metadata":{"intentId":"2607bf03-f567-424d-8a21-05205fb669bb","webhookUsed":"true","webhookForSlotFillingUsed":"false","intentName":"lunch"},"fulfillment":{"speech":"","messages":[{"type":0,"speech":""}]},"score":1},"status":{"code":200,"errorType":"success"},"sessionId":"f763a439-631c-4f94-9df9-5a9d833db142"}
+}

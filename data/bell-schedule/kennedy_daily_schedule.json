@@ -1,0 +1,43 @@
+{  "bell_schedule" :
+{
+    "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Zero period is from 7:25 to 8:16 AM. First period is from 8:20 to 9:18 am. Second period is from 9:22 to 10:13. Brunch is from 10:13 to 11:28. Third period is from 10:37 to 11:28. Fourth period is from 11:32 to 12:23 PM. Lunch is from 12:23 to 12:58 pm. Fifth period is from 1:02 to 1:53. Last period of the day - sixth period is from 1:57 to 2:48 PM" ,
+
+	"2": "Zero period is from 7:25 to 8:16 AM. First period is from 8:20 to 9:18 am. Second period is from 9:22 to 10:13. Brunch is from 10:13 to 11:28. Third period is from 10:37 to 11:28. Fourth period is from 11:32 to 12:23 PM. Lunch is from 12:23 to 12:58 pm. Fifth period is from 1:02 to 1:53. Last period of the day - sixth period is from 1:57 to 2:48 PM" ,
+
+	"3": "Late start day. Zeroth period is from 8:50 to 9:25 am. First period is from 9:30 to  10:18 am. Second period is from 10:22 to 11:01 am. Brunch is from 11:01 to 11:21. Third period is from 11:25 to 12:04 pm. Fourth period is from 12:08 to 12:47. Lunch is from 12:47 to 1:22.  Fifth period is from 1:26 to 2:05 pm. Last period of the day sixth period is from 2:09 to 2:48 PM.",
+
+	"4": "Zero period is from 7:25 to 8:16 AM. First period is from 8:20 to 9:18 am. Second period is from 9:22 to 10:13. Brunch is from 10:13 to 11:28. Third period is from 10:37 to 11:28. Fourth period is from 11:32 to 12:23 PM. Lunch is from 12:23 to 12:58 pm. Fifth period is from 1:02 to 1:53. Last period of the day - sixth period is from 1:57 to 2:48 PM" ,
+    
+	"5": "Zero period is from 7:25 to 8:16 AM. First period is from 8:20 to 9:18 am. Second period is from 9:22 to 10:13. Brunch is from 10:13 to 11:28. Third period is from 10:37 to 11:28. Fourth period is from 11:32 to 12:23 PM. Lunch is from 12:23 to 12:58 pm. Fifth period is from 1:02 to 1:53. Last period of the day - sixth period is from 1:57 to 2:48 PM" 
+},
+ 
+   
+  "start_time" : {
+      
+ "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Zero period is from 7:25 and First period is from 8:20 " ,
+
+	"2": "Zero period is from 7:25 and First period is from 8:20 " ,
+
+	"3": "Late start day. Zeroth period is from 8:50 to 9:25 am.",
+
+	"4": "Zero period is from 7:25 and First period is from 8:20 ",
+    
+	"5": "Zero period is from 7:25 and First period is from 8:20 "      
+      
+  },
+ "end_time" : {
+      "//": " 1 is Monday, 2 is Tuesday, 3 is Wed, 4 is Thursday, 5 is Friday.",
+	"1": "Last period of the day - sixth period ends at 2:48 PM" ,
+
+	"2": "Last period of the day - sixth period ends at 2:48 PM",
+
+	"3": "Last period of the day - sixth period ends at 2:48 PM",
+
+	"4": "Last period of the day - sixth period ends at 2:48 PM" ,
+    
+	"5": "Last period of the day - sixth period ends at 2:48 PM"
+     
+ }
+}

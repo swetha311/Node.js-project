@@ -1,0 +1,37 @@
+  {"bell_schedule" :
+
+
+
+{
+
+"1": "We don't have bell schedule for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"2": "We don't have bell schedule for De Vergas. Please contact us at hello@teamupschool.com if you have it. "  ,
+
+"3" : "We don't have bell schedule for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"4" :"We don't have bell schedule for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"5" :"We don't have bell schedule for De Vergas. Please contact us at hello@teamupschool.com if you have it."
+},
+
+   "start_time" : {"1": "We don't have start time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"2": "We don't have start time  for De Vergas. Please contact us at hello@teamupschool.com if you have it. "  ,
+
+"3" : "We don't have start time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"4" :"We don't have start time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"5" :"We don't have start time for De Vergas. Please contact us at hello@teamupschool.com if you have it."  },
+ "end_time" :
+    {"1": "We don't have school end time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"2": "We don't have school end time for De Vergas. Please contact us at hello@teamupschool.com if you have it. "  ,
+
+"3" : "We don't have school end time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"4" :"We don't have school end time for De Vergas. Please contact us at hello@teamupschool.com if you have it." ,
+
+"5" :"We don't have school end time for De Vergas. Please contact us at hello@teamupschool.com if you have it."  }
+}

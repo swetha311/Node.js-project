@@ -1,0 +1,16 @@
+  "bell_schedule" :{}
+  "start_time" : {},
+ "end_time" : {}
+
+{
+
+	"1": "School starts at 9 AM, Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for K-3 is 3 PM. Dismissal for 4-5 is 3:30 PM",
+
+	"2": "School starts at 9 AM, Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for K-3 and 3-4 is 2:25 PM.",
+
+	"3": "School starts at 9 AM, Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for K-3 is 3 PM. Dismissal for 4-5 is 3:30 PM",
+
+	"4": "School starts at 9 AM, Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for K-3 is 3 PM. Dismissal for 4-5 is 3:30 PM",
+	"5": "School starts at 9 AM, Recess is at 11 to 11:20 AM, Lunch is 12:20 pm to 1 pm. Dismissal for K-3 is 3 PM. Dismissal for 4-5 is 3:30 PM"
+}
+

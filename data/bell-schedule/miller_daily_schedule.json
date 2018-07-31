@@ -1,0 +1,43 @@
+  {"bell_schedule" :
+
+{
+
+	"1": "Zeroth period is from 7:45 to 8:35 AM. First period is from 8:38 to 9:30. Second period is from 9:33 to 10:30. Brunch is from 10:30am to 10:50am Third period is from 10:50am to 11:42am. Fourth period is from  11:45am to 12:37pm. Lunch is from 12:37pm to  1:08pm Fifth period is from 1:13pm to 2:05pm Sixth period is from  2:08 to 3:00PM",
+
+	"2": "Zeroth period is from 7:45 to 8:35 AM. First period is from 8:38 to 9:30. Second period is from 9:33 to 10:30. Brunch is from 10:30am to 10:50am Third period is from 10:50am to 11:42am. Fourth period is from  11:45am to 12:37pm. Lunch is from 12:37pm to  1:08pm Fifth period is from 1:13pm to 2:05pm Sixth period is from  2:08 to 3:00PM",
+    
+	"3": "Wednesday is late start. Zeroth period 9:05am - 9:45am. First period starts from 9:48am - 10:28am. Second period starts from 10:31 to 11:18. Brunch is from 11:18am - 11:38am. Third period starts from 11:38am to 12:18pm. Fourth period starts from 12:21pm to 1:01pm. Lunch is from 1:01pm to 1:32pm. Fifth period starts from 1:37pm to 2:17pm. Sixth period starts from 2:20pm to 3:00pm",
+    
+	"4": "Zeroth period is from 7:45 to 8:35 AM. First period is from 8:38 to 9:30. Second period is from 9:33 to 10:30. Brunch is from 10:30am to 10:50am Third period is from 10:50am to 11:42am. Fourth period is from  11:45am to 12:37pm. Lunch is from 12:37pm to  1:08pm Fifth period is from 1:13pm to 2:05pm Sixth period is from  2:08 to 3:00PM",
+	"5": "Zeroth period is from 7:45 to 8:35 AM. First period is from 8:38 to 9:30. Second period is from 9:33 to 10:30. Brunch is from 10:30am to 10:50am Third period is from 10:50am to 11:42am. Fourth period is from  11:45am to 12:37pm. Lunch is from 12:37pm to  1:08pm Fifth period is from 1:13pm to 2:05pm Sixth period is from  2:08 to 3:00PM"
+},
+
+
+  "start_time" : 
+   {
+
+	"1": "School starts at 7:45  AM.",
+
+	"2": "Late start day on Wednesday. School starts at  9:05 AM." ,
+
+	"3": "School starts at 8:55 AM.",
+
+	"4": "School starts at 7:45  AM.",
+	"5": "School starts at 7:45  AM."
+},
+ "end_time" : 
+{
+
+	"1": "Last period of the day sixth period ends at 3:00 PM.",
+
+	"2": "Last period of the day sixth period ends at 3:00 PM.",
+
+	"3": "Last period of the day sixth period ends at 3:00 PM.",
+
+	"4": "Last period of the day sixth period ends at 3:00 PM.",
+	"5": "Last period of the day sixth period ends at 3:00 PM."
+}
+
+}
+
+

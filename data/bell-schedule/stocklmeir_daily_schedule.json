@@ -1,0 +1,40 @@
+  {"bell_schedule" :
+
+
+{
+
+	"1": "School starts at 8:30 AM. Recess is from 10 to 10:20. For grade 1 and 3 recess is from  10 to 10:20 and lunch is from 11:45 to 12:30.  For second, 4th and 5th graders, recess is from 10:20 to 10:40 and lunch is from 12:30 to 1:15. For Kindergarden to 3 rd grade - school is dismissed at 2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"2": "Tuesday is early release day. School starts at 9 AM. All grades are dismissed at 2 PM ",
+
+	"3": "School starts at 8:30 AM. Recess is from 10 to 10:20. For grade 1 and 3 recess is from  10 to 10:20 and lunch is from 11:45 to 12:30.  For second, 4th and 5th graders, recess is from 10:20 to 10:40 and lunch is from 12:30 to 1:15. For Kindergarden to 3 rd grade - school is dismissed at 2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"4": "School starts at 8:30 AM. Recess is from 10 to 10:20. For grade 1 and 3 recess is from  10 to 10:20 and lunch is from 11:45 to 12:30.  For second, 4th and 5th graders, recess is from 10:20 to 10:40 and lunch is from 12:30 to 1:15. For Kindergarden to 3 rd grade - school is dismissed at 2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"5": "School starts at 8:30 AM. Recess is from 10 to 10:20. For grade 1 and 3 recess is from  10 to 10:20 and lunch is from 11:45 to 12:30.  For second, 4th and 5th graders, recess is from 10:20 to 10:40 and lunch is from 12:30 to 1:15. For Kindergarden to 3 rd grade - school is dismissed at 2:35. For 4th and 5th graders - school dismissed at 3:05 PM"
+},
+
+  "start_time" : {
+
+      	"1": "School starts at 8:30 AM.",
+
+	"2": "School starts at 8:30 AM.",
+
+	"3": "School starts at 8:30 AM.",
+
+	"4": "School starts at 8:30 AM.",
+
+	"5": "School starts at 8:30 AM."
+
+  },
+ "end_time" : {	"1": "For Kindergarden to 3 rd grade - school is dismissed at  2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"2": "Early dismissal today. All grades are dismissed at 2 PM ",
+
+	"3": "For Kindergarden to 3 rd grade - school is dismissed at  2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"4":  "For Kindergarden to 3 rd grade - school is dismissed at  2:35. For 4th and 5th graders - school dismissed at 3:05 PM",
+
+	"5":  "For Kindergarden to 3 rd grade - school is dismissed at  2:35. For 4th and 5th graders - school dismissed at 3:05 PM"
+}
+}

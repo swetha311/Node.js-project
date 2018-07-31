@@ -1,0 +1,29 @@
+{"id":"db080d48-4c76-4d7f-91f4-319cfa30baac",
+			"timestamp":"2017-09-19T19:33:06.143Z",
+			"lang":"en",
+			"result":{
+				"source":"agent",
+				"resolvedQuery":"Hi",
+				"speech":"",
+				"action":"input.welcome",
+				"actionIncomplete":false,
+				"parameters":{},
+				"contexts":[],
+				"metadata":{
+					"intentId":"0af93b8c-e1aa-40df-8ebc-31783f36f10a",
+					"webhookUsed":"true",
+					"webhookForSlotFillingUsed":"false",
+					"intentName":"Default Welcome Intent"
+				},
+				"fulfillment":{
+					"speech":"Hello from Team up!",
+					"messages":[{"type":0,"speech":"Hello from Team up!"}]
+				},
+				"score":1.0
+			},
+			"status":{
+				"code":200,
+				"errorType":"success"
+			},
+			"sessionId":"ddfce646-0aa7-4466-9039-0206d3bfe187"
+			}

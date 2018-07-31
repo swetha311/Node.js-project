@@ -1,0 +1,45 @@
+  {"bell_schedule" :
+
+
+{
+
+	"1": "School starts at 8:30 AM, Recess is from 10:15 to 10:35 a.m., Lunch is from 12:00 to 12:45 p.m. Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+
+	"2": "Tuesday is early release day. School starts at 8:30 AM, Recess is from 10:15 to 10:35 a.m., Lunch is from 12:00 to 12:45 p.m. Grades K to 3 are dismissed at 1:42 PM and grades 4 and 5 are dismissed at 2 PM",
+
+	"3": "School starts at 8:30 AM, Recess is from 10:15 to 10:35 a.m., Lunch is from 12:00 to 12:45 p.m. Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+
+	"4": "School starts at 8:30 AM, Recess is from 10:15 to 10:35 a.m., Lunch is from 12:00 to 12:45 p.m. Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+    
+	"5": "School starts at 8:30 AM, Recess is from 10:15 to 10:35 a.m., Lunch is from 12:00 to 12:45 p.m. Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM"
+},
+   
+  
+  "start_time" : {
+      
+      
+	"1": "School starts at 8:30 AM",
+
+	"2": "School starts at 8:30 AM",
+
+	"3": "School starts at 8:30 AM",
+
+	"4": "School starts at 8:30 AM",
+    
+	"5": "School starts at 8:30 AM"
+  },
+ "end_time" : {
+     
+     
+	"1": "Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+
+	"2": "Grades K to 3 are dismissed at 1:42 PM and grades 4 and 5 are dismissed at 2 PM",
+
+	"3": "Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+
+	"4": "Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM",
+    
+	"5": "Grades K to 3 are dismissed at 2:40 PM and grades 4 and 5 are dismissed at 3:05 PM"
+ }
+
+}
